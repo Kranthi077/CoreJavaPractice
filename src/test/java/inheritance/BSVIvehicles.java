@@ -1,5 +1,6 @@
 package inheritance;
 
+
 public class BSVIvehicles extends ChildClassKTMduke  {
 
 	public void headLamp() {
