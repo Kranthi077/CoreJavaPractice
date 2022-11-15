@@ -8,6 +8,7 @@ public class OneDimensionalArray {
 		a[0] = 2;
 		a[1] = 5;
 		a[2] = 7;
+		
 
 		for (int i = 0; i < 3; i++) {
 
